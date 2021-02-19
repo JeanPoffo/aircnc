@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
+  <a href="/" rel="noopener">
  <img height=150px src="logo.png" alt="Project logo"></a>
 </p>
 
